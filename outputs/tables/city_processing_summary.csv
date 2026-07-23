@@ -1,0 +1,5 @@
+city,recordings,raw_vehicle_rows,raw_vehicle_trajectories,passenger_car_rows,passenger_car_trajectories,flagged_duration_below_minimum,flagged_stationary_full_trajectory,flag_overlap_short_and_stationary,excluded_unique_trajectories,modeling_eligible_trajectories
+Changchun,8,3158641,10372,2769176,8774,88,30,9,109,8665
+Chongqing,10,3080096,2691,2753742,2171,46,216,19,243,1928
+Tianjin,23,3182723,11375,1321613,4752,151,73,5,219,4533
+Xi'an,15,2630833,5931,2355450,5007,83,123,21,185,4822

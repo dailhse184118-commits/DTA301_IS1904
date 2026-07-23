@@ -1,0 +1,5 @@
+city,recordings,vehicle_rows,vehicle_trajectories,car_trajectories,pedestrian_rows,pedestrian_trajectories,recordings_with_vehicle_meta,traffic_light_files,total_duration_hours
+Changchun,8,3158641,10372,8774,151508,765,0,8,3.1198976754532315
+Chongqing,10,3080096,2691,2171,363203,1157,0,9,3.2303136469803135
+Tianjin,23,3182723,11375,4752,606682,1588,23,23,7.023050828606384
+Xi'an,15,2630833,5931,5007,169950,699,0,15,3.843704815927038

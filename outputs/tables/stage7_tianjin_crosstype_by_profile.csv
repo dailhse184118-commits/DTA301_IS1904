@@ -1,0 +1,17 @@
+profile_id,profile_name,CrossType_clean,trajectory_count,profile_percentage
+1,Smooth and Steady,LeftTurn,550,21.764938662445587
+1,Smooth and Steady,Others,20,0.7914523149980214
+1,Smooth and Steady,RightTurn,913,36.12979817965968
+1,Smooth and Steady,StraightCross,1044,41.313810842896714
+2,Stop-and-Go,LeftTurn,289,25.643300798580306
+2,Stop-and-Go,Others,33,2.9281277728482697
+2,Stop-and-Go,RightTurn,56,4.968944099378882
+2,Stop-and-Go,StraightCross,749,66.45962732919256
+3,Dynamic Speed Adjustment,LeftTurn,172,27.17219589257504
+3,Dynamic Speed Adjustment,Others,4,0.631911532385466
+3,Dynamic Speed Adjustment,RightTurn,221,34.913112164297
+3,Dynamic Speed Adjustment,StraightCross,236,37.2827804107425
+4,Acceleration-Intensive,LeftTurn,36,14.634146341463413
+4,Acceleration-Intensive,Others,2,0.8130081300813009
+4,Acceleration-Intensive,RightTurn,74,30.081300813008134
+4,Acceleration-Intensive,StraightCross,134,54.47154471544715

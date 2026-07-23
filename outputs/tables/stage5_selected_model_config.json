@@ -1,0 +1,23 @@
+{
+  "selected_model": "KMeans",
+  "selected_k": 4,
+  "preprocessing_pipeline": "C_winsor_robust",
+  "pca_components": 5,
+  "pca_retained_variance": 0.9171,
+  "n_init": 50,
+  "random_state": 42,
+  "n_trajectories": 19948,
+  "coverage": 1.0,
+  "silhouette_sample_5000": 0.29630392938102207,
+  "davies_bouldin": 1.279134169577448,
+  "calinski_harabasz": 8298.675690247577,
+  "inertia": 62188.87871325445,
+  "production_seed_pairwise_ari_mean": 0.98503484704306,
+  "production_seed_pairwise_ari_min": 0.9775522705645902,
+  "bootstrap_ari_mean": 0.88466847653198,
+  "bootstrap_ari_min": 0.8046894658173992,
+  "leave_one_city_out_ari_mean": 0.8264624183916598,
+  "leave_one_city_out_ari_min": 0.5673253704487139,
+  "recording_subsample_ari_mean": 0.9207784193860072,
+  "recording_subsample_ari_min": 0.8368192422195483
+}

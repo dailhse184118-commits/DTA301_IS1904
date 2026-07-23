@@ -1,0 +1,7 @@
+evidence_category,metric,value,interpretation
+Coverage,Trajectory coverage,1.0,"All 19,948 eligible trajectories receive a profile."
+Internal structure,Silhouette sample 5000,0.29630392938102207,Moderate separation; profiles overlap and should not be presented as perfectly isolated classes.
+Seed stability,Minimum pairwise ARI,0.9775522705645902,The four-profile partition is highly stable to K-Means initialization.
+Bootstrap stability,Minimum bootstrap ARI,0.8046894658173992,The partition remains reproducible under resampled trajectory composition.
+Cross-city validation,Mean leave-one-city-out ARI,0.8533331876056702,"The structure transfers across cities, with stronger context sensitivity in Changchun."
+Cross-recording validation,Median leave-one-recording-out ARI,0.9774252873617206,The structure is highly reproducible across recording sessions.

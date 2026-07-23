@@ -1,0 +1,3 @@
+association,chi_square,degrees_of_freedom,p_value,cramers_v_bias_corrected,n,rows,columns
+Profile x Any signal violation,22.279530381696514,3,5.7052927343104517e-05,0.06522225793762113,4533,4,2
+Profile x Violation category,35.96348869786744,6,2.8020351294313366e-06,0.05750089258545125,4533,4,3

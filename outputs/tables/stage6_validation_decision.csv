@@ -1,0 +1,2 @@
+selected_model,preprocessing,validation_decision,city_gate_passed,recording_gate_passed,interpretation
+KMeans k=4,1%-99% winsorization + RobustScaler + PCA,Validated with context sensitivity,True,True,"The four-profile solution is strongly reproducible across recordings and remains transferable across held-out cities. Changchun produces the weakest city transfer and one Changchun recording is notably less stable, so city and recording context must remain explicit in the report."

@@ -1,0 +1,20 @@
+{
+  "selected_pipeline": "C_winsor_robust",
+  "selected_preliminary_k": 2,
+  "selection_basis": "Internal metrics followed by mandatory bootstrap stability gate",
+  "winsorize_continuous_features": true,
+  "winsor_lower_quantile": 0.01,
+  "winsor_upper_quantile": 0.99,
+  "scaler": "robust",
+  "pca_variance_threshold": 0.9,
+  "pca_components": 5,
+  "pca_retained_variance": 0.9171415614610716,
+  "bootstrap_ari_mean": 0.9819771347790199,
+  "bootstrap_ari_min": 0.957289855433738,
+  "bootstrap_unstable_repeats": 0,
+  "preliminary_k_only": true,
+  "rejected_internal_winner": "B_raw_robust",
+  "rejection_reason": "Although B_raw_robust had the strongest preliminary silhouette and Hopkins scores, 2 of 20 bootstrap resamples collapsed, its minimum ARI fell to approximately 0.001, and the smallest predicted cluster fell to one trajectory. It therefore failed the mandatory stability gate.",
+  "sensitivity_baseline": "A_winsor_standard",
+  "note": "C_winsor_robust is the Stage 4 primary preprocessing baseline. The preliminary k=2 result is not the final behavioral-profile decision. Stage 5 must compare K-Means, density-based, mixture, and hierarchical models, including more interpretable k values."
+}

@@ -1,0 +1,3 @@
+association,chi_square,degrees_of_freedom,p_value,cramers_v_bias_corrected,n,rows,columns
+Profile x CrossType (excluding Others),428.14871299636627,6,2.4708416482624245e-89,0.21725319459460726,4474,4,3
+Profile x CrossType (including Others),454.8431009607324,9,2.6426986604501927e-92,0.1811258186873718,4533,4,4
